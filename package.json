@@ -2,10 +2,10 @@
   "name": "stock-keeping-api",
   "version": "1.0.0",
   "description": "A comprehensive inventory management system API",
-  "main": "your-main-file.js", // Replace 'your-main-file.js' with the actual name of your main application file (e.g., app.js, server.js)
+  "main": "api.js",
   "scripts": {
-    "start": "node your-main-file.js", // Replace 'your-main-file.js'
-    "dev": "nodemon your-main-file.js", // Replace 'your-main-file.js'
+    "start": "node api.js",
+    "dev": "nodemon api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
